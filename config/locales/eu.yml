@@ -293,7 +293,7 @@ eu:
       start: Hasi bilatzen...
   landing:
     about: "%{href} zure kode irekiko BigBlueButton konferentzia zerbitzurako front-end sinple bat da. Zure gela propioak sor ditzakezu saioak ostatatzeko, edo beste batzuenera batu esteka labur eta praktiko bat erabiliz."
-    welcome: Ongi etorri BigBlueButtonera.
+    welcome: Ongi etorri UEUren Webmintegiak zerbitzura.
     video: Ikusi Greenlight erabiltzeko gure tutoriala.
     upgrade: Erakutsi nola eguneratu 2.0ra!
     version: "Greenlighteko bertsio berri bat atera dugu, baina zure datu-basea ez da bateragarria."
